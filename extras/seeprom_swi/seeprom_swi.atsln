@@ -1,0 +1,19 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Atmel Studio Solution File, Format Version 11.00
+Project("{D1100916-62DA-4D80-A9B4-55A1E7CCEEB3}") = "seeprom_swi", "seeprom_swi.cproj", "{36BA10D3-B0C4-4255-83F6-E868402840F3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		default|AVR = default|AVR
+		UsePortMacros|AVR = UsePortMacros|AVR
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{36BA10D3-B0C4-4255-83F6-E868402840F3}.default|AVR.ActiveCfg = default|AVR
+		{36BA10D3-B0C4-4255-83F6-E868402840F3}.default|AVR.Build.0 = default|AVR
+		{36BA10D3-B0C4-4255-83F6-E868402840F3}.UsePortMacros|AVR.ActiveCfg = UsePortMacros|AVR
+		{36BA10D3-B0C4-4255-83F6-E868402840F3}.UsePortMacros|AVR.Build.0 = UsePortMacros|AVR
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
